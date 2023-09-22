@@ -11,7 +11,11 @@
 
 <h3 align="left">Stats:</h3>
   
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcabounader92&show_icons=true&theme=radical)](https://github.com/marcabounader92)
+![](https://raw.githubusercontent.com/marcabounader92/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/marcabounader92/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/marcabounader92/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/marcabounader92/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
