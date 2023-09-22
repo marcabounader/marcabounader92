@@ -9,6 +9,10 @@
 
 - 📫 How to reach me **marcabounader92@gmail.com**
 
+<h3 align="left">Stats:</h3>
+<p align="left">
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcabounader92&show_icons=true&theme=radical)](https://github.com/marcabounader92)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/marc-abou-nader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marc-abou-nader" height="30" width="40" /></a>
