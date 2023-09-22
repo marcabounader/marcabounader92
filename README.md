@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hello, I'm Marc Abou Nader 👋
 
-<!--
-**marcabounader92/marcabounader92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a DevSecOps professional with a passion for . Here you'll find a collection of my projects and contributions in the world of Full Stack Web Development. I'm enthusiastic about secure web applications, and I'm always exploring new ways to innovate and collaborate.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I frequently work with a variety of technologies and tools, including:
+
+- 💻 React JS.
+- 🌐 Laravel.
+- 🚀 Docker.
+- ⚙️ MySQL.
+
+## 🌱 Current Projects
+
+I'm currently working on HackTheBox. These projects reflect my interests in developing secure applications.
+
+## 📫 Let's Connect
+
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/marc-abou-nader). I'm always open to interesting collaborations and conversations!
+
+## 📊 GitHub Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcabounader92)](https://github.com/marcabounader92/github-readme-stats)
+
+Thanks for visiting my GitHub profile! 🚀
