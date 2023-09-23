@@ -2,16 +2,18 @@
 #### A Lebanese-American passionate Cybersecurity professional and Full Stack web developer.
 <p align="left"><img src="https://149728326.v2.pressablecdn.com/wp-content/uploads/unnamed.gif" alt="DevSecOps"/>
 
+<h3 align="left">Projects:</h3>
+<p align="left">
 - 🔭 I’m currently working on [HackTheBox](https://github.com/marcabounader92/SEF-Final-FrontEnd)
 
-- 👨‍💻 All of my projects are available at [https://github.com/marcabounader92](https://github.com/marcabounader92)
+- 👨‍💻 All of my projects are available at [https://github.com/marcabounader92?tab=repositories](https://github.com/marcabounader92?tab=respositories)
 
 - 💬 Ask me about **React, Laravel, MySQL, and Cybersecurity.**
 
 - 📫 How to reach me **marcabounader92@gmail.com**
 
 <h3 align="left">Stats:</h3>
-  
+<p align="left">
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcabounader92&show_icons=true)](https://github.com/marcabounader92)
 
 <h3 align="left">Connect with me:</h3>
