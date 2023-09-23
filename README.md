@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Marc Abou Nader</h1>
-<h3 align="center">A Lebanese-American passionate full stack web developer.</h3>
+### Hi there 👋, my name is Marc Abou Nader
+#### A Lebanese-American passionate full stack web developer.
+![A Lebanese-American passionate full stack web developer.](https://github.com/marcabounader92/marcabounader92/blob/main/marc.png)
 
 - 🔭 I’m currently working on [HackTheBox](https://github.com/marcabounader92/SEF-Final-FrontEnd)
 
