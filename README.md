@@ -6,7 +6,7 @@
 <p align="left">
 - 🔭 I’m currently working on [HackTheBox](https://github.com/marcabounader92/SEF-Final-FrontEnd)
 
-- 👨‍💻 All of my projects are available at [https://github.com/marcabounader92?tab=repositories](https://github.com/marcabounader92?tab=respositories)
+- 👨‍💻 All of my projects are available at [respositories](https://github.com/marcabounader92?tab=respositories)
 
 - 💬 Ask me about **React, Laravel, MySQL, and Cybersecurity.**
 
