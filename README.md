@@ -16,7 +16,7 @@
 
 <h3 align="left">Stats:</h3>
 
-<p align="left">[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcabounader92&show_icons=true)](https://github.com/marcabounader92)
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=marcabounader92&show_icons=true" alt="My GitHub Stats"></p>
 
 <h3 align="left">Connect with me:</h3>
 
