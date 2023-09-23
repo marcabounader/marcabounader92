@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Marc Abou Nader
 #### A Lebanese-American passionate full stack web developer.
-<img align="right" src="https://149728326.v2.pressablecdn.com/wp-content/uploads/unnamed.gif" alt="DevSecOps"/>
+<img align="center" src="https://149728326.v2.pressablecdn.com/wp-content/uploads/unnamed.gif" alt="DevSecOps"/>
 
 - 🔭 I’m currently working on [HackTheBox](https://github.com/marcabounader92/SEF-Final-FrontEnd)
 
