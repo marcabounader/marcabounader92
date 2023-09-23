@@ -11,7 +11,7 @@
 
 <h3 align="left">Stats:</h3>
   
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcabounader92&show_icons=true&theme=radical)](https://github.com/marcabounader92)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcabounader92&show_icons=true)](https://github.com/marcabounader92)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
