@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Marc Abou Nader
 #### A Lebanese-American passionate Cybersecurity professional and Full Stack web developer.
-<p align="center"><img src="https://149728326.v2.pressablecdn.com/wp-content/uploads/unnamed.gif" alt="DevSecOps"/>
+
+<p align="left"><img src="https://149728326.v2.pressablecdn.com/wp-content/uploads/unnamed.gif" alt="DevSecOps"/>
 
 <h3 align="left">Projects:</h3>
 
